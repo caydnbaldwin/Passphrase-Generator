@@ -1,4 +1,4 @@
-from src import passwordGenerator_functions as passwordGenerator
+from source import passwordGenerator_functions as passwordGenerator
 
 
 def main():
