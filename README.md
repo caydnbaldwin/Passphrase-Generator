@@ -19,7 +19,7 @@ Consider the following passwords and their security calculated by [security.org]
 
 `$8EHn4R@F9sPejC` -> Google Password Suggestion -> is a strong but forgettable password.
 
-`running africa jordan` -> Plain Text Passphrase (hobby, song, athlete) -> is 2,733,333 times more secure than the Google Suggested Password - partially due to consisting of more characters - and is more memorable.
+`running africa jordan` -> Plain Text Passphrase (hobby, song, athlete) -> is 2,733,333 times more secure than the Google Suggested Password - largely due to consisting of more characters - and is more memorable.
 
 `runn!n9 @fr!c@ j0rd@n` -> Leet Speech Passphrase (hobby, song, athlete) -> is 26,666,666,666 times more secure than the Google Suggested Password and is more memorable. Despite consisting of the same amount of characters, it is still 9,756 times more secure than the Leet Speech Passphrase (hobby, song, athlete) password and is equally as memorable.
 
