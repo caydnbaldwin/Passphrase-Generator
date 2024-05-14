@@ -15,9 +15,9 @@ A python script that interacts with the user to generate a more secure and perso
 A business could incorporate this password generator into their onboarding process. When an employee obtains access to PII and SPII, the employee then becomes a security risk, as exemplified in the "Problem" section of this README. As part of the onboarding process, an employee can be assigned to interact with this script to generate a more secure password. The secure password consisting of 1-4 words with significant meaning to the employee will be easily memorable like a tagline or slogan. 2 minutes really could save an organization $18.5 million.
 
 ## Justification
-Consider the following passwords and their security calculated by [security.org](https://www.security.org/how-secure-is-my-password/):
+Consider the following passwords and their security calculated by [security.org](https://www.security.org/how-secure-is-my-password/) then divided by each other for comparison:
 
-`$8EHn4R@F9sPejC` -> Google Password Suggestion -> is a strong but unmemorable password.
+`$8EHn4R@F9sPejC` -> Google Password Suggestion -> is a strong but forgettable password.
 
 `running africa jordan` -> Plain Text Passphrase (hobby, song, athlete) -> is 2,733,333 times more secure than the Google Suggested Password and is more memorable.
 
@@ -27,4 +27,4 @@ Consider the following passwords and their security calculated by [security.org]
 "Write one word per prompt that represents a subject that is significant to you. For example: My favorite hobby is running. I could enter the word 'marathon' because it is my favorite race to run. Each word must be from a unique subject. Do not enter the subject itself. For example: My favorite hobby is running, but I would not enter the word 'running' or 'run' because it is surface level and easily crackable. Each prompt will have a suggested subject in the case that you can't think of one. Once all prompts are answered, a password will be output. Disclaimer: Word inputs and password outputs are NOT stored or recorded."
 
 ## Logical Flow:
-Print instructions. -> Confirm that the user desires to continue. -> Pick a password length on a scale from 1-4 words. -> Prohibit numbers, special characters, or spaces? (because some systems don't allow those) -> Prompt for a word 1-4 times, depending on the previously determined length. Combine the responses into one string. -> Apply leet speech. -> Print password.
+Print instructions. -> Confirm that the user desires to continue. -> Pick a password length on a scale from 1-4 words. -> Prohibit numbers, special characters, or spaces? (because some systems don't allow those) -> Prompt for a word 1-4 times, depending on the previously determined length. -> Apply leet speech. -> Print password.
