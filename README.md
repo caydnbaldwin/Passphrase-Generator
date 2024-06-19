@@ -17,11 +17,11 @@ A business could incorporate this password generator into their onboarding proce
 ## Justification
 Consider the following passwords and their security calculated by [security.org](https://www.security.org/how-secure-is-my-password/) then divided by each other for comparison:
 
-`$8EHn4R@F9sPejC` -> Google Password Suggestion -> is a strong but forgettable password.
+`$8EHn4R@F9sPejC` -> Google Password Suggestion -> is a strong but forgettable password, although manageable with a password manager.
 
 `running africa jordan` -> Plain Text Passphrase (hobby, song, athlete) -> is 2,733,333 times more secure than the Google Suggested Password - largely due to consisting of more characters - and is more memorable.
 
-`runn!n9 @fr!c@ j0rd@n` -> Leet Speech Passphrase (hobby, song, athlete) -> is 26,666,666,666 times more secure than the Google Suggested Password and is more memorable. Despite consisting of the same amount of characters, it is still 9,756 times more secure than the Plain Text Passphrase (hobby, song, athlete) password and is equally as memorable.
+`runn!n9 @fr!c@ j0rd@n` -> Leet Speech Passphrase (hobby, song, athlete) -> is 26,666,666,666 times more secure than the Google Suggested Password and is more memorable. Despite consisting of the same amount of characters, it is still 9,756 times more secure than the Plain Text Passphrase (hobby, song, athlete) and is equally as memorable.
 
 ## Instructions:
 "Write one word per prompt that represents a subject that is significant to you. For example: My favorite hobby is running. I could enter the word 'marathon' because it is my favorite race to run. Each word must be from a unique subject. Do not enter the subject itself. For example: My favorite hobby is running, but I would not enter the word 'running' or 'run' because it is surface level and easily crackable. Each prompt will have a suggested subject in the case that you can't think of one. Once all prompts are answered, a password will be output. Disclaimer: Word inputs and password outputs are NOT stored or recorded."
