@@ -1,4 +1,4 @@
-# passwordGenerator
+# passphraseGenerator
 A python script that interacts with the user to generate a more secure and personalized password.
 
 ## Problem
